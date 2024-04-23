@@ -12,11 +12,11 @@
 - `Step 3:`Accept user input for the text.<br>
 - `Step 4:`Tokenize the input text into words using the `word_tokenize` function.<br>
 - `Step 5:`Iterate through each word in the tokenized text.<br>
-    -	Perform part-of-speech tagging on the tokenized words using `nltk.pos_tag.`<br>
-    -	Print each word along with its corresponding part-of-speech tag.<br>
-    -	For each verb , iterate through its synsets (sets of synonyms) using `wordnet.synsets`(word).<br>
-    -	Extract synonyms and antonyms using `lemma.name()` and `lemma.antonyms()[i].name()` respectively.<br>
-    -	Print the unique sets of synonyms and antonyms.
+- `Step 6:`	Perform part-of-speech tagging on the tokenized words using `nltk.pos_tag.`<br>
+- `Step 7:`	Print each word along with its corresponding part-of-speech tag.<br>
+- `Step 8:`	For each verb , iterate through its synsets (sets of synonyms) using `wordnet.synsets`(word).<br>
+- `Step 9:`	Extract synonyms and antonyms using `lemma.name()` and `lemma.antonyms()[i].name()` respectively.<br>
+- `Step 10:`Print the unique sets of synonyms and antonyms.
 ## Program:
 
 ```py
