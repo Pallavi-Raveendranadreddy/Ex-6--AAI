@@ -88,10 +88,12 @@ for sentence in sentences:
 ## Output :
 ### Sample Sentence from 'samplefile.txt' :
 ### Words and the respective POS-Tags :
-![](1.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex-6--AAI/assets/94294872/54f3376f-7028-4b7d-ab02-34103d9781c6)
+
 
 ### Synonyms and Antonyms for verbs in each sentence :
-![](2.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex-6--AAI/assets/94294872/8537dacc-a2ef-40c9-a702-8335af56fb39)
+
 
 ## Result:
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
